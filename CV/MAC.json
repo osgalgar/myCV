@@ -1,0 +1,339 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Oscar",
+      "surnames": "Gallego García",
+      "title": "Full Stack Developer, bombero y apaga fuegos de urgencia",
+      "description": "¿Soy un desarrollador senior? ¿Analista programador senior? ¿Informático orquesta / bombero? No lo sé, a pesar de mis 14 años de experiencia en el metal.\nTambién tengo más de 5 años de experiencia como comercial y gestor de cuentas empresariales, es por este motivo por el que aplico a la oferta de Manfred. Siempre he sido honesto con mis clientes y velaba por sus intereses tratando de cubrir sus necesidades.\nMe gusta aprender cosas nuevas, tratar de estar al día del mundillo, y me defiendo bastante bien en inglés.\nPersonalmente mi mujer dice que soy el \"Friki universal\" porque le doy a todo: Videojuegos, juegos de mesa, rol, música, cine, deportes, fotografía, sneakers, ...\naunque desde que nació nuestro hijo el tiempo es valioso y limitado así que lo suelo compartir con mi familia.\nSuelo integrarme con facilidad en cualquier equipo y tiendo a hacer piña con mis compañeros.\nDisfruto con los retos y desafíos que nos presenta la informática de hoy en día, a parte de estar acostumbrado a trabajar bajo presión.\nMe definiría como metódico y perfeccionista, (siempre atento al detalle) aunque sé entregar algo de calidad dentro de una deadline: prefiero las cosas bien hechas y procuro entregar código de calidad y dejarlo mejor de cómo me lo encuentro.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/04/08/dba8c645-df1b-450b-837c-1fdffc02fc82_img_0451_medium.jpeg",
+        "alt": "IMG_0451_medium.jpeg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJK31l46JFYA0RxvUwJYk-FnQ)",
+        "country": "España",
+        "region": "Comunidad Valenciana",
+        "municipality": "Burjasot"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/osgalgar"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/osgalgar"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/osgalgar"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Mercadona S.A"
+        },
+        "roles": [
+          {
+            "name": "Gerente Técnico (Full stack developer)",
+            "startDate": "2019-11-01",
+            "challenges": [
+              {
+                "description": "Entré a trabajar en Mercadona a raíz de que contentos con el trabajo que venía desarrollando desde proveedor, pensaron que sería un candidato ideal para continuar con mi labor pero desde dentro de la empresa. Actualmente sigo trabajando en el mismo equipo de desarrollo para el que trabajaba. A parte de luchar contra la deuda técnica, hacer crecer al equipo, fomentar la amistad y la camaradería, estoy formándome y desarrollando ya programas en el nuevo stack tecnológico de Mercadona: Angular, Spring Batch, Spring Boot, Kafka, etc..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Capgemini España"
+        },
+        "roles": [
+          {
+            "name": "Senior Developer",
+            "startDate": "2017-02-01",
+            "finishDate": "2019-10-01",
+            "challenges": [
+              {
+                "description": "Entré en una nueva consultora a trabajar para Mercadona. Un equipo encargado tanto del trabajo rutinario como de mejora de una parte fundamental del core de la empresa: los pedidos de las tiendas y la previsión de ventas. Al ser en su gran mayoría código legacy tocábamos PL/SQL, shell scripting, C++ (FWK propio de Mercadona), Javascript, Java, HTML, etc...\nUnas necesidades exigentes, una forma de trabajo muy metódica y con disponibilidad 24x7 (hacíamos guardias semanales) hicieron de esta época un entrenamiento duro pero muy agradecido."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Startup \"Fine Turing\""
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Fullstack Freelance",
+            "startDate": "2015-02-01",
+            "finishDate": "2017-02-01",
+            "challenges": [
+              {
+                "description": "En esta etapa de mi vida decidí junto a dos amigos (que todavía conservo) montar una startup y ganarnos la vida trabajando en las ideas que nos gustaban y divirtiéndonos al mismo tiempo. Aprendí muchísimo sobretodo de los errores que cometimos. Nos gastamos el dinero que reunimos de las indemnizaciones que conseguimos por el ERE en nuestra anterior empresa y no llegamos a sacar nuestro MVP. Moraleja: ni eramos Steve Jobs, ni España / Valencia es EE.UU para emprender."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Steria Ibérica SAU / Connectis Consulting Services"
+        },
+        "roles": [
+          {
+            "name": "Programador Junior / Senior",
+            "startDate": "2008-07-01",
+            "finishDate": "2015-02-01",
+            "challenges": [
+              {
+                "description": "Mi primer trabajo como desarrollador / programador. Entré como Junior y me fui como Senior / Analista. Lo aprendí todo sobre el desarrollo con un equipo increíble que me hizo crecer, no sólo a nivel profesional sino como persona. Trabajábamos para la administración pública (Sanidad) en la Comunidad Valenciana. Llevábamos el SIP (Sistema Información Poblacional) la Tarjeta Sanitaria Valenciana para entendernos. La BBDD es Oracle y en aquel entonces a parte de deuda técnica trabajábamos con HTML, CSS, Java, Javascript, PL/SQL.\nHicimos un equipo muy unido y comprometido y aún hoy mantenemos la amistad y el contacto."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Aryan Comunicaciones"
+        },
+        "roles": [
+          {
+            "name": "Gestor Cuenta Empresas ",
+            "startDate": "2007-04-01",
+            "finishDate": "2008-06-01",
+            "challenges": [
+              {
+                "description": "Ejercí de gestor de cuentas del mayorista informático Aryan Comunicaciones. Me asignaron una cartera con unos pocos clientes y básicamente mi labor fue hacer que esa cartera creciera consiguiendo nuevos clientes y que la facturación aumentara progresivamente. Teníamos varias marcas en exclusiva (Eizo, Lobometrics, Sonicwall, Fujitsu, ...). Lo cual nos hizo especializarnos en un nicho de mercado más concreto y menos generalista.\nUsábamos Navision como CRM y la verdad es que fue una época en la que aprendí muchas cosas tanto del trato con empresas como de la venta telefónica y no presencial."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PC City Spain"
+        },
+        "roles": [
+          {
+            "name": "Comercial Ventas / Comercial Empresas",
+            "startDate": "2005-07-01",
+            "finishDate": "2007-04-01",
+            "challenges": [
+              {
+                "description": "Fue mi primer trabajo de comercial y relacionado con la informática. Vendíamos ordenadores y todo lo relacionado con la informática desde impresoras, componentes, hasta videojuegos, incluso productos de Apple. Aprendí muchísimo de las ventas, de las personas, y del trato cliente - vendedor. Siempre he tratado a todos mis clientes con respeto y estoy orgulloso de no haber \"encalomado\" nunca nada. Me considero una persona justa y honesta que no antepongo una comisión a que un cliente no se lleve lo que verdaderamente \"necesita\".\nUsábamos CCS como CRM. Después de varios meses haciendo Top4 en ventas me pasaron al departamento de empresas donde el tipo de cliente era más grande y tenía otras necesidades: equipos en red, renting, comunicaciones, etc..."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "fullName": "Francés",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "JP",
+        "fullName": "Japonés",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Navision",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring-Batch",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de autogestión",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/osgalgar",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/osgalgar",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/osgalgar",
+          "type": "twitter"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "Spring-Batch",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer",
+        "Project Manager & Delivery Manager"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Kafka",
+        "type": "technology"
+      },
+      {
+        "name": "Oracle",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      },
+      {
+        "name": "Spring-Batch",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Me gustaría trabajar en una empresa con un gran ambiente de trabajo. Dónde se valore el trabajo bien hecho y se recompense. Una empresa flexible y dinámica con proyección ya sea grande, mediana o pequeña. No me asustan los retos técnicos, ni tener que reciclarme ni aprender tecnologías o frameworks nuevos. De hecho estoy en ello aunque es duro sacar tiempo de dónde no lo hay. Me encantaría si pudiera emplear otros idiomas aunque esto no es mandatory. Al fin y al cabo: busco un trabajo del que me pueda sentir orgulloso, conseguir explicarle a mi hijo en qué consiste, y dormir tranquilo por las noches. No sé si es mucho pedir y se lo tendría que pedir a Papá Nöel o a los Reyes Magos. No obstante espero encontrarlo en Manfred o que me ayudéis a encontrarlo en otro sitio en el futuro."
+  }
+}
